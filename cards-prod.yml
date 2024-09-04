@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "John Doe - Product Owner"
-    email: "john@eazybank.com"
+    name: "Mariola Żelazna - Product Owner"
+    email: "mariola@eazybank.com"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
