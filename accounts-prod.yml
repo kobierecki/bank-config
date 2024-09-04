@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
-    name: "John Doe - Product Owner"
+    name: "Marek Hłasko - Product Owner"
     email: "{cipher}8304411ef1cf03d441b6137d872e23d1d8868082855e47ed85defcd7f54ec429168da6d1cb280311fc969a52acecec26"
   onCallSupport:
     - (555) 555-1234
